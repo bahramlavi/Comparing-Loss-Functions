@@ -1,4 +1,4 @@
-# Comparing-Asymmetric-Loss-Functions
+# Asymmetric Loss Functions
 
 This repository presents the code and models from a study investigating "The Impact of Asymmetric Loss Functions on
 Data-Driven Short-term Forecasting Approaches". Paper available at <>.
