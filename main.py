@@ -246,8 +246,8 @@ def train_DL_models():
                         except:
                             print('Model prediction is INF*************')
                             tf.keras.backend.clear_session()
-                            
-                            continue
+                            #This handles if the model predicts inf.
+                            raise 
 
                         
                         df_res = pd.concat([df_res, pd.DataFrame([reg,
