@@ -14,9 +14,6 @@ Make sure you configure your GPU device in the *DL_Regressors.py* file.
 
 The results will be stored in the generated *./Experiments/* folder.
 
-**Dataset**
-
-For the UNISIM-IV dataset (located in the *./U4/* folder), please contact us!
 
 **Citation**
 
